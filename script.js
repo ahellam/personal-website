@@ -7,3 +7,5 @@ function clickAlert() {
   }
   h2.addEventListener('click', clickAlert);
 
+h2.style.borderStyle = "solid"
+

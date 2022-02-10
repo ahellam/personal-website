@@ -10,5 +10,7 @@ body {
     background: rgb(142, 143, 135);
     text-align: center;
     }
-
+#hacker img {
+  border-style: solid;
+}
 
